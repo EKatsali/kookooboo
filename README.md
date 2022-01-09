@@ -65,7 +65,10 @@ Circular economy of wood
 -Οι Μαθητές του 1ου Νηπιαγωγείου Μουρικίου	
 
 
+
+
 ΕΞΟΠΛΙΣΜΟΣ
+
 Για την κάμερα Raspberry Pi:
 
 •	
@@ -76,6 +79,7 @@ Circular economy of wood
 
 
 Για τη μακέτα:
+
 •	Εκπαιδευτικό ρομπότ Thymio – 223,20 €
 
 •	Thymio remote control – 18,60 €	
