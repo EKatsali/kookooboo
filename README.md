@@ -71,11 +71,23 @@ Circular economy of wood
 
 Για την κάμερα Raspberry Pi:
 
-•	
+•	Raspberry Pi 8MP NOIR υπέρυθρη Camera board v2 - 29,90 €
 
-•	
+•	Universal USB Type C 5V 3A Charging Cable for Raspberry Pi 4 Power Cable with ON/OFF Switch - 2,90 €
 
-•	
+•	Raspberry Pi 4 Model B/4GB	- 60,90 €
+
+• Official Raspberry Pi 4 Model B Black / Grey Case - 5,60 €
+
+• 2 InfraredLEDs (5mm 890nm) - 2,26 €
+
+• 2  220 Ohm 1% Resistors -	0,78 €
+
+• Female-to-female jumper leads -	4,12 €
+
+• PowerBank Sandberg Urban Solar (420-54) - 10000 mAh - Black -	47,9 €
+
+• Tenda 4G180 Ασύρματο 4G Φορητό Hotspot - 47,24 €
 
 
 Για τη μακέτα:
