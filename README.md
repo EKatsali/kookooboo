@@ -50,7 +50,6 @@ sleep(5)
 camera.stop_preview()
 
 Στον παρακάτω σύνδεσμο μπορείτε να παρακολουθήσετε όλοι τη διαδικασία από τους μαθητές για τη δημιουργία της Raspberry Pi camera:
-
 https://youtu.be/Kon13zUPUBc
 
 
