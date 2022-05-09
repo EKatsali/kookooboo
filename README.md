@@ -36,7 +36,7 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/0
 
 raspivid -t 0 
 
-Στον παρακάτω σύνδεσμο μπορείτε να παρακολουθήσετε όλοι τη διαδικασία από τους μαθητές για τη δημιουργία της Raspberry Pi camera:
+Στον παρακάτω σύνδεσμο μπορείτε να παρακολουθήσετε όλη τη διαδικασία από τους μαθητές για τη δημιουργία της Raspberry Pi camera:
 https://youtu.be/Kon13zUPUBc
 
 
