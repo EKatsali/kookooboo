@@ -32,22 +32,9 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/0
 
 Μέσα από αυτή τη διαδικασία οι μαθητές κατανοούν ότι τα ρομπότ έχουν μία δική τους γλώσσα προγραμματισμού ώστε να μπορέσουν να λειτουργήσουν. Έτσι φτιάχνουν οι ίδιοι οι μαθητές τη δική τους γλώσσα, μία γλώσσα που απεικονίζει γράμματα που δε μοιάζουν με το ελληνικό αλφάβητο.
 
-Ο κώδικας που ενεργοποιεί την εικόνα είναι:
+Ο κώδικας που ενεργοποιεί την εικόνα είναι(python):
 
-Open a new file and save it as camera.py.
-
-Note: it’s important that you never save the file as picamera.py.
-
-Enter the following code:
-
-from picamera import PiCamera
-from time import sleep
-
-camera = PiCamera()
-
-camera.start_preview()
-sleep(5)
-camera.stop_preview()
+raspivid -t 0 
 
 Στον παρακάτω σύνδεσμο μπορείτε να παρακολουθήσετε όλοι τη διαδικασία από τους μαθητές για τη δημιουργία της Raspberry Pi camera:
 https://youtu.be/Kon13zUPUBc
