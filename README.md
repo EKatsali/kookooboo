@@ -37,7 +37,7 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/0
 raspivid -t 0 
 
 
-Ο κώδικας για να γίνει μετάδοση live στο youtube είναι (Πάνω στην μπάρα εργασίας πατάς το κουμπί που μοιάζει σαν μαύρος πίνακας. Και αντιγράφεις και επικολλάς την παρακάτω εντολή - το copy paste δουλεύει με δεξι κλικ και όχι  ctrl+c:
+Ο κώδικας για να γίνει μετάδοση live στο youtube είναι (Πάνω στην μπάρα εργασίας πατάς το κουμπί που μοιάζει σαν μαύρος πίνακας. Και αντιγράφεις και επικολλάς την παρακάτω εντολή - το copy paste δουλεύει με δεξι κλικ και όχι  ctrl+c):
 
 raspivid -o - -t 0 -w 1280 -h 720 -fps 25 -b 4000000 -g 50 | ffmpeg -re -ar 44100 -ac 2 -acodec pcm_s16le -f s16le -ac 2 -i /dev/zero -f h264 -i - -vcodec copy -acodec aac -ab 128k -g 50 -strict experimental -f flv rtmp://a.rtmp.youtube.com/live2/918k-adw0-9rmy-47z9-a87h
 
