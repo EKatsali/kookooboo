@@ -164,8 +164,7 @@ https://kozanimedia.gr/%ce%bf%ce%b9-%cf%80%cf%81%ce%bf%cf%84%ce%ac%cf%83%ce%b5%c
 •	Thymio remote control – 18,60 €	
 
 
-
-
-
+Η ΠΑΡΟΥΣΙΑΣΗ ΤΟΥ ΕΡΓΟΥ ΥΠΑΡΧΕΙ ΚΑΙ ΣΤΗΝ ΙΣΟΣΕΛΙΔΑ ΤΗΣ ΕΕΛ/ΛΑΚ
+https://openedtech.ellak.gr/robotics2022/otan-esi-lipis-kookooboo/
 
 
